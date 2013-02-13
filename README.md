@@ -1,4 +1,5 @@
-learning-clojure
-================
+I'm Learning Clojure
+====================
 
-Clojure playground!
+Clojure playground for me as I learn.
+
